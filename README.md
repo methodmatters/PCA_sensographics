@@ -1,2 +1,3 @@
-# PCA_sensographics
-Code and data for blog post on PCA, Sensographics, and Mapping Consumer Perceptions
+This repository contains code and data for the blog post on PCA, Sensographics, and Mapping Consumer Perceptions.
+
+https://methodmatters.github.io/sensographics-and-mapping-consumer/
